@@ -1,0 +1,1 @@
+export const MEDIA_NOT_FOUND = 'MEDIA_NOT_FOUND';
